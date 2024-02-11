@@ -1,10 +1,9 @@
-### Hi there 👋
-Welcome to wjpld3vs! (before wjpldevs) 
+### Welcome to wjpld3vs👋! (before [wjpldevs](https://github.com/wjpldevs)) 
 
-🧮 Math Applied Researcher 
-👨‍💻 Developer & Data Analyst
-🐍 Python and C# rules all those
-⚡ Follow my blog (spanish): [Heuristiko](https://www.heuristiko.com)
+- 🧮 Math Applied Researcher 
+- 👨‍💻 Developer & Data Analyst
+- 🐍 Python and C# rules all those
+- ⚡ Follow my blog (in spanish): [Heuristiko](https://www.heuristiko.com)
 <!--
 **wjpld3vs/wjpld3vs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
