@@ -3,7 +3,7 @@
 - 🧮 Math Applied Researcher 
 - 👨‍💻 Developer & Data Analyst
 - 🐍 Python and C# rules all those
-- ⚡ Follow my blog (in spanish): [Heuristiko](https://www.heuristiko.com)
+- ⚡ Follow my website (in spanish): [wjpldevs](https://www.wjpldevs.com)
 <!--
 **wjpld3vs/wjpld3vs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
